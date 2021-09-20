@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chathider",
+  "name": "ChatHider Mod",
+  "description": "A mod that can hide keywords in blacklist when received chat message.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["WindLeaf_qwq"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
