@@ -2,7 +2,7 @@
 A mod that can hide keywords in blacklist when received chat message
 
 ## Supported version
-**Forge 1.8.9**
+**Minecraft 1.8.9 Forge**
 
 ## Todos
 - [ ] Use character "**'**" insteadof "**`**"
