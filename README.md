@@ -6,6 +6,7 @@ A mod that can hide keywords in blacklist when received chat message
 
 ## Todos
 - [ ] Use character "**'**" insteadof "**`**"
+- [ ] Match both upper and lower case
 - [ ] Fix `/ch conver 'clear` bug
 - [ ] Use **`Regex`** and **`Fuzzy matching`** insteadof `Keyword matching`
 - [ ] Improve the command processing system
