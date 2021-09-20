@@ -1,4 +1,4 @@
-buildscript {
+﻿buildscript {
     repositories {
         jcenter()
         maven {
@@ -14,7 +14,7 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 
 version = "1.0"
 group= "moe.windleaf.chathider"
-archivesBaseName = "[关键词屏蔽] ChatHider"
+archivesBaseName = "ChatHider-forge1.8.9"
 
 minecraft {
     version = "1.8.9-11.15.1.2318-1.8.9"
