@@ -5,7 +5,7 @@ A mod that can hide keywords in blacklist when received chat message
 **Minecraft 1.8.9 Forge**
 
 ## Todos
-- [ ] Use character "**'**" insteadof "**`**"
+- [x] Use character "**'**" insteadof "**`**"
 - [ ] Change command usage `/ch convert [string]/'clear` -> `/ch convert <[string]/'clear>`
 - [ ] Make the convert string change the length according to the length of the keyword 
 - [ ] Match both upper and lower case
